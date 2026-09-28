@@ -1,0 +1,9 @@
+﻿dataset/*
+!dataset/.gitkeep
+results/
+checkpoints/
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+.DS_Store
