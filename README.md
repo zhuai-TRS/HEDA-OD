@@ -16,7 +16,7 @@ Put `.npy` tensors in `./dataset/` (`--root_path ./dataset/`).
 | Dataset | Files | Notes |
 |---------|--------|--------|
 | Zone OD | `zone_od_matrix.npy` | Private; not released |
-| NYC24 Q1–Q3 | `nyc24q1.npy`, `nyc24q2.npy`, `nyc24q3.npy` | [Google Drive](https://drive.google.com/drive/folders/1HNTwX9zGb_m5LtOGeoySgfQh04HZeA4g?usp=drive_link) |
+| NYC24 Q1–Q3 | `nyc24q1.npy`, `nyc24q2.npy`, `nyc24q3.npy` | [Google Drive](https://drive.google.com/drive/folders/1HNTwX9zGb_m5LtOGeoySgfQh04HZeA4g?usp=sharing) |
 
 ## Run
 
